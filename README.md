@@ -1,0 +1,2 @@
+# NLP_feedback_classification_model
+Разработка модели для классификации текстовых отзывов
